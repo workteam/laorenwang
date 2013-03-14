@@ -1,0 +1,6 @@
+1、修改根目录 \ admin目录   config.php文件 相关参数 
+2、system\image  两文件夹 设置 0777 可读写属性
+3、语言包目录  catalog\language
+
+chinese.php 为中文公共语言包
+english.php 为英文公共语言包

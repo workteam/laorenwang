@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core
+END
+FolderHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/FolderHandler.php
+END
+Connector.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/Connector.php
+END
+ImagesConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/ImagesConfig.php
+END
+ThumbnailsConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/ThumbnailsConfig.php
+END
+ResourceTypeConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/ResourceTypeConfig.php
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/Xml.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/Config.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/Factory.php
+END
+AccessControlConfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/AccessControlConfig.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/35/kiwi/ckeditor/ckfinder/core/connector/php/php4/Core/Registry.php
+END
