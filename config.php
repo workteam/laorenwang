@@ -1,6 +1,6 @@
 <?php
 // HTTP
-$http= "http://127.0.0.1/laoren";
+$http= "http://127.0.0.1/laorenwang";
 
 define("HTTP_SERVER", "$http/");
 define("HTTP_IMAGE", "$http/image/");
