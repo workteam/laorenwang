@@ -71,11 +71,11 @@ class ControllerModuleHomelayout extends Controller {
         $Travel=  $this->model_tool_q ->q ( " select  * from op_news   as     a
             left join  op_news_description  as b  on a.news_id = b.news_id
 
-            where  a.cat_id='4'  and   b.language_id='$language_id'  order by    a.sort_order, a.news_id desc limit  0,4   ") ->rows;
+            where  a.cat_id='-1'  and   b.language_id='$language_id'  order by    a.sort_order, a.news_id desc limit  0,4   ") ->rows;
         foreach ($Travel as $key=>$val) {
                 $Travel[$key]["thumb"]=$this->model_tool_image->resize($Travel[$key]["image"], 150,180);
                 $Travel[$key]["title"] =      $this->model_tool_str->utf8substr ($Travel[$key]["title"] ,11 ,0 ) ;
-                $Travel[$key]["href"]=  "?route=news/news&news_id=$val[news_id]"        ;
+                $Travel[$key]["href"]=  "?route=homes/hospital&news_id=$val[news_id]";
         }
         $this->data["Travel"]=$Travel;
 
